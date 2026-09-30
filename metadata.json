@@ -1,0 +1,6 @@
+{
+  "name": "Orderly - Quản Lý Bán Hàng & Đơn Hàng Màu Hồng",
+  "description": "Nền tảng quản lý bán hàng Orderly với banner bán hàng màu hồng nổi bật, theo dõi đơn hàng, tổng thu nhập, voucher khuyến mãi và đánh giá khách hàng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
